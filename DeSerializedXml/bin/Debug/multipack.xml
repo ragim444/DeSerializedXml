@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documents session_ui="43bec863-67a2-2445-a055-026055a13871" version="1.19" xsi:noNamespaceSchemaLocation="documents.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <multi_pack action_id="915">
+        <subject_id>5020180319028620180320</subject_id>
+        <operation_date>2018-03-20T23:00:00+01:00</operation_date>
+        <by_sgtin>
+            <detail>
+                <sscc>533527129000000010</sscc>
+                <content>
+                   <sgtin>033527120062054319580172424</sgtin>
+                   <sgtin>033527120062057772913643957</sgtin>
+                </content>
+                <sscc>533527129000000027</sscc>
+                <content>
+                   <sgtin>033527120062055135548971741</sgtin>
+                   <sgtin>033527120062050258955806461</sgtin>
+                </content>                
+            </detail>
+        </by_sgtin>
+        <by_sscc>
+            <detail>
+                <sscc>933527100024292016</sscc>
+                <content>
+                    <sscc>533527129000000010</sscc>
+                    <sscc>533527129000000027</sscc>
+                </content>
+            </detail>
+        </by_sscc>
+    </multi_pack>
+</documents>
