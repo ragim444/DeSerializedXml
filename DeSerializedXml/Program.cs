@@ -15,7 +15,7 @@ namespace DeSerializedXml
             using (FileStream fs = new FileStream("multipack.xml", FileMode.Open))
             {
                 MultiPackDocuments multipackdocuments = (MultiPackDocuments)formatter.Deserialize(fs);
-                Console.WriteLine("XML десериализована");
+                Console.WriteLine("XML десериализован");
             }
             Console.ReadLine();
         }
